@@ -42,42 +42,34 @@ Business Insights
 # Data Processing
 The ETL pipeline performs:
 
-Data ingestion
-Missing value handling
-Column renaming
-Data type conversion
-Feature engineering
-Database loading
+- Data ingestion
+- Missing value handling
+- Column renaming
+- Data type conversion
+- Feature engineering
+- Database loading
 
 # SQL Analysis
 The project answers several business questions including:
 
-Top revenue-generating products
-Highest-selling products by region
-Monthly sales trends
-Year-over-year sales comparison
-Best-performing product categories
-Profit growth by sub-category
+- Top revenue-generating products
+- Highest-selling products by region
+- Monthly sales trends
+- Year-over-year sales comparison
+- Best-performing product categories
+- Profit growth by sub-category
 
 # Skills Demonstrated
-ETL Development
-Data Cleaning
-SQL Analytics
-Feature Engineering
-Relational Database Design
-Business Intelligence
-Python Programming
-
-# Repository Structure
-data/
-notebooks/
-sql/
-images/
-README.md
-requirements.txt
+- ETL Development
+- Data Cleaning
+- SQL Analytics
+- Feature Engineering
+- Relational Database Design
+- Business Intelligence
+- Python Programming
 
 # Future Improvements
-Power BI Dashboard
-Automated ETL Scheduling
-Cloud Deployment
-Interactive Reporting
+- Power BI Dashboard
+- Automated ETL Scheduling
+- Cloud Deployment
+- Interactive Reporting
