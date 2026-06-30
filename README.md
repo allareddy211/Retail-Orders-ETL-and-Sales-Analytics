@@ -10,12 +10,12 @@ Retail organizations generate large volumes of transactional data every day. Raw
 This project automates the ETL process and enables stakeholders to answer important business questions related to revenue, profitability, product performance, and regional sales trends.
 
 # Technologies Used
-Python
-Pandas
-MySQL
-SQLAlchemy
-SQL
-Jupyter Notebook
+- Python
+- Pandas
+- MySQL
+- SQLAlchemy
+- SQL
+- Jupyter Notebook
 
 # ETL Workflow
 
