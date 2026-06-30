@@ -19,6 +19,7 @@ This project automates the ETL process and enables stakeholders to answer import
 
 # ETL Workflow
 
+'''text
 Raw CSV
       │
       ▼
@@ -38,6 +39,7 @@ SQL Analytics
       │
       ▼
 Business Insights
+'''
 
 # Data Processing
 The ETL pipeline performs:
